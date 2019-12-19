@@ -14,9 +14,6 @@ items:
     selector:
       run: web
     type: ClusterIP
-
---- 
-
 - apiVersion: v1
   kind: Service
   metadata:
